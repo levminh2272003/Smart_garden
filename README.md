@@ -1,8 +1,8 @@
-# Smart Greenhouse – Hệ Thống Vườn Nhà Kính Thông Minh
+# Smart Garden – Hệ Thống Vườn Nhà Kính Thông Minh
 
 ## Giới thiệu
 
-Dự án **Smart Greenhouse** được xây dựng nhằm giám sát và điều khiển tự động các thông số môi trường như **nhiệt độ, độ ẩm, ánh sáng, và mực nước** trong nhà kính.  
+Dự án **Smart Garden** được xây dựng nhằm giám sát và điều khiển tự động các thông số môi trường như **nhiệt độ, độ ẩm, ánh sáng, và mực nước** trong nhà kính.  
 Hệ thống sử dụng **ESP32** làm bộ xử lý trung tâm, kết hợp cảm biến, relay, màn hình OLED và giao thức **MQTT** để điều khiển và giám sát từ xa.
 
 ### Mục tiêu hệ thống
